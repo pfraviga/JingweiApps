@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MppFileInterpreter", "MPPFileInterpreter\MppFileInterpreter.csproj", "{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MppFileInterpreterSetup", "MppFileInterpreterSetup\MppFileInterpreterSetup.vdproj", "{9D090F7D-4EA6-484A-B261-83BEAC93E818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}.Debug|x86.ActiveCfg = Debug|x86
+		{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}.Debug|x86.Build.0 = Debug|x86
+		{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}.Release|x86.ActiveCfg = Release|x86
+		{A60BCAB2-1495-4DA7-95EB-4C7E98690F7F}.Release|x86.Build.0 = Release|x86
+		{9D090F7D-4EA6-484A-B261-83BEAC93E818}.Debug|Any CPU.ActiveCfg = Debug
+		{9D090F7D-4EA6-484A-B261-83BEAC93E818}.Debug|x86.ActiveCfg = Debug
+		{9D090F7D-4EA6-484A-B261-83BEAC93E818}.Release|Any CPU.ActiveCfg = Release
+		{9D090F7D-4EA6-484A-B261-83BEAC93E818}.Release|Any CPU.Build.0 = Release
+		{9D090F7D-4EA6-484A-B261-83BEAC93E818}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
